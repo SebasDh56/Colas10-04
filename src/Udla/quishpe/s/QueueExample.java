@@ -44,7 +44,7 @@ public class QueueExample {
         queue.poll();
         System.out.println("Tope de la lsita "+queue);
 
-
+sq
 
     }
 
